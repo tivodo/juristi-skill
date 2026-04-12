@@ -16,7 +16,7 @@ Tekoäly tekee juridisessa suomen kielessä systemaattisia virheitä:
 - **Rakenne hakusessa**: pykälien, momenttien ja kohtien hierarkia sekaisin, johdantokappaleiden ja kohtien virkerakenne rikki
 - **Viittaukset epätarkkoja**: kumottuihin lakeihin viittaaminen, säädösnumeroiden puuttuminen, oikeuskäytännön tunnusmuodot väärin
 
-Tämä skill ehkäisee nämä virheet ja ohjaa tekoälyn tuottamaan ammattitasoista juridista tekstiä.
+Tämä skill ei tee tekoälystä täydellistä, mutta se auttaa ehkäisemään näitä virheet ja ohjaa tekoälyn tuottamaan ammattitasoista juridista tekstiä tekoälyn parhailla kyvykkyyksillä.
 
 ## Asennus
 
