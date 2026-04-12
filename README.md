@@ -57,6 +57,22 @@ for f in lahteet lakikieli rakenne sopimukset viittaukset; do \
 done
 ```
 
+### Vaihtoehto 4: Asenna tekoälyllä
+
+Anna tekoälylle (Claude Code, Codex tai muu skillejä tukeva agentti) tämän repon osoite ja pyydä sitä asentamaan skill:
+
+```
+Asenna tämä skill: https://github.com/akunikkola/juristi-skill
+```
+
+### Vaihtoehto 5: Lataa .skill-tiedosto
+
+Lataa valmis skill-paketti ja lisää se suoraan Claudeen:
+
+[Lataa juristi.skill (Google Drive)](https://drive.google.com/file/d/1RIkvqLBgoaOLUV3LXtX8o2SGaWYeM2jy/view?usp=sharing)
+
+Lisää ladattu tiedosto Claudeen raahaamalla se Claude Code -ikkunaan tai tuomalla se skillinä asetuksista.
+
 ## Mitä skill kattaa
 
 | Osa-alue | Referenssitiedosto | Sisältö |
