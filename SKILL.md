@@ -23,8 +23,9 @@ Tämän skillin yksityiskohtaiset ohjeet on jaettu referenssitiedostoihin. **Lue
 | Lakikieli ja suomen kieli | `references/lakikieli.md` | Käyttäjä kirjoittaa tai tarkistaa juridista tekstiä, kysyy kirjoitussäännöistä, yhdyssanoista, pilkutuksesta tai lakikielen tyylistä |
 | Sopimukset | `references/sopimukset.md` | Käyttäjä laatii, tarkistaa tai analysoi sopimusta tai muuta juridista asiakirjaa |
 | Lähteet ja oikeuskäytäntö | `references/lahteet.md` | Käyttäjä etsii ajantasaista lakia, oikeuskäytäntöä, hallituksen esityksiä tai tarvitsee viittausmuotoja oikeuslähteisiin |
+| Suomen kieli | `references/suomen-kieli.md` | Käyttäjä kirjoittaa suomeksi ja tarvitsee kattavat oikeinkirjoitus-, kielioppi- ja tyyliohjeet — yhdyssanat, pilkutus, alkukirjaimet, lyhenteet, numerot, lauserakenne, oikoluku |
 
-**Ohje:** Lue yksi tai useampi referenssitiedosto tehtävän alussa. Useimmissa tehtävissä riittää 1–2 referenssiä. Lue kaikki vain, jos tehtävä on laaja (esim. kokonaisen säädöstekstin tarkistus).
+**Ohje:** Lue yksi tai useampi referenssitiedosto tehtävän alussa. Useimmissa tehtävissä riittää 1–2 referenssiä. Lue kaikki vain, jos tehtävä on laaja (esim. kokonaisen säädöstekstin tarkistus). Lue `references/suomen-kieli.md` aina kun tuotat tai tarkistat suomenkielistä tekstiä — se sisältää kattavat oikeinkirjoitusohjeet.
 
 ---
 
