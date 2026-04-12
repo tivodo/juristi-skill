@@ -82,6 +82,7 @@ Lisää ladattu tiedosto Claudeen raahaamalla se Claude Code -ikkunaan tai tuoma
 | Lakikieli | `references/lakikieli.md` | 3-3-3-sääntö, numerot, välimerkit, lyhenteet, passiivi ja aktiivi |
 | Sopimukset | `references/sopimukset.md` | Sopimusrakenne, osapuolten yksilöinti, esimerkkiklausuulit |
 | Lähteet | `references/lahteet.md` | Finlex, oikeuskäytäntö, hallituksen esitykset, viittausmuodot |
+| Suomen kieli | `references/suomen-kieli.md` | Yhdyssanat, pilkutus, alkukirjaimet, anglismit ja tyyli juridisessa kontekstissa |
 
 Lisäksi SKILL.md sisältää ydinsäännöt ja tarkistuslistan, joka on aina käytettävissä ilman referenssitiedostoja.
 
