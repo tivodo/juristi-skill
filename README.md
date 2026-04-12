@@ -1,24 +1,24 @@
-# Suomalaisen lainsäädännön ja lakikielen skill tekoälylle
+# Suomalaisen lainsäädännön ja lakikielen skill-tiedosto tekoälylle
 
-**Opeta tekoäly työskentelemään suomalaisen lainsäädännön ja juridisten dokumenttien kanssa.** Tämä skill antaa tekoälylle kattavat ohjeet säädösten rakenteesta, pykäläviittausten oikeasta muodosta, lakikielen kirjoitussäännöistä, sopimusten laatimisesta ja oikeuslähteiden käytöstä.
+**Opeta tekoäly työskentelemään suomalaisen lainsäädännön ja juridisten dokumenttien kanssa.** Tämä skill-tiedosto antaa tekoälylle kattavat ohjeet säädösten rakenteesta, pykäläviittausten oikeasta muodosta, lakikielen kirjoitussäännöistä, sopimusten laatimisesta ja oikeuslähteiden käytöstä.
 
 Toimii Claude Coden, Codexin ja minkä tahansa muun skillejä tukevan tekoälyagentin kanssa.
 
 ---
 
-## Miksi tämä on tehty
+## Miksi tekoäly tarvitsee tätä skilliä?
 
-Tekoäly tekee juridisessa suomen kielessä systemaattisia virheitä:
+Tekoäly tekee juridisessa suomen kielessä systemaattisia virheitä, jotka vaikuttavat lopputuloksen uskottavuuteen ja oikeellisuuteen:
 
 - **Pykäläviittaukset väärin**: "pykälässä 2" eikä *2 §:ssä*, taivutusmuodot pielessä, säädösnumerot puuttuvat
 - **Yhdyssanat erikseen**: "oikeus turva" eikä *oikeusturva*, "hallinto päätös" eikä *hallintopäätös*
-- **Lakikielen tyyli pielessä**: mahtipontista amerikkalaista yritysretoriikkaa suomalaisen asiatyylin sijaan
+- **Lakikielen tyyli pielessä**: mahtipontista amerikkalaista lakiretoriikkaa suomalaisen asiatyylin sijaan
 - **Rakenne hakusessa**: pykälien, momenttien ja kohtien hierarkia sekaisin, johdantokappaleiden ja kohtien virkerakenne rikki
 - **Viittaukset epätarkkoja**: kumottuihin lakeihin viittaaminen, säädösnumeroiden puuttuminen, oikeuskäytännön tunnusmuodot väärin
 
 Tämä skill ei tee tekoälystä täydellistä, mutta se auttaa ehkäisemään näitä virheet ja ohjaa tekoälyn tuottamaan ammattitasoista juridista tekstiä tekoälyn parhailla kyvykkyyksillä.
 
-## Asennus
+## Asennusohjeet – ks. vaihtoehdot 4–5 jos et ole tekninen ihminen
 
 ### Vaihtoehto 1: Projektitasoinen asennus (suositeltu)
 
@@ -73,7 +73,7 @@ Lataa valmis skill-paketti ja lisää se suoraan Claudeen:
 
 Lisää ladattu tiedosto Claudeen raahaamalla se Claude Code -ikkunaan tai tuomalla se skillinä asetuksista.
 
-## Mitä skill kattaa
+## Mitä juristi-skill kattaa?
 
 | Osa-alue | Referenssitiedosto | Sisältö |
 |---|---|---|
