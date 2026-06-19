@@ -220,21 +220,45 @@ Kun sanan loppu ei ole mukana lyhenteessä:
 
 ## 6. Viivat
 
-### 6.1 Yhdysmerkki eli lyhyt viiva (-)
+### 6.1 Yhdysmerkki (eli yhdysviiva) (-)
 
-Käytetään:
+Lyhyt vaakaviiva. Virallinen nimitys on **yhdysmerkki**; "yhdysviiva" on
+sen hyväksytty synonyymi. Käytetään:
 - Yhdyssanoissa tietyissä tapauksissa: EU-asetus, a-kohta
 - Tavutuksessa rivinvaihdossa
 
-### 6.2 Ajatusviiva eli pitkä viiva (–)
+### 6.2 Ajatusviiva (–)
 
-Käytetään:
+Yhdysmerkkiä pidempi vaakaviiva. Käytetään:
 - Väliin-ilmauksissa: sivut 10–15, klo 8–16, vuosina 2020–2025
 - Pykäläväleissä: 2–4 §
 - Ajatusviivana lauseen keskellä: "Asiaa pohdittiin – eikä vähiten siksi, että…"
 - Luetelman alussa
 
 **Ajatusviivaa ja yhdysmerkkiä ei saa sekoittaa.** Tämä on juridisessa tekstissä erityisen tärkeää pykäläväleissä: "2–4 §" (ajatusviiva), ei "2-4 §" (yhdysmerkki).
+
+### 6.3 n-viiva (–) ja m-viiva (—)
+
+Ajatusviivoja on kaksi eripituista:
+- **n-viiva** (–, englannin *en dash*) — lyhyempi ajatusviiva
+- **m-viiva** (—, englannin *em dash*) — pidempi ajatusviiva
+
+Kielenhuolto **ei erottele** näitä eri käyttötarkoituksiin: kumpaa tahansa
+voi käyttää kaikissa ajatusviivan tehtävissä. Suomalaisessa tekstissä
+vakiintunein on kuitenkin n-viiva (–), ja **tämä skill käyttää
+johdonmukaisesti n-viivaa (–)** kaikissa ajatusviivan tehtävissä. Älä siis
+"korjaa" n-viivaa m-viivaksi — molemmat ovat sallittuja, mutta
+yhdenmukaisuuden vuoksi pitäydy n-viivassa.
+
+### 6.4 Välilyönnit viivojen ympärillä
+
+- **Rajakohta- ja väli-ilmaukset: ei välilyöntejä.** Esim. 2–4 §, sivut
+  10–15, klo 8–16, vuosina 2020–2025.
+- **Virkkeen sisäinen välihuomautus: välilyönnit molemmin puolin.** Esim.
+  "Asiaa pohdittiin – eikä vähiten siksi – ennen päätöstä."
+- **Jos yhdysmerkkiä (-) käytetään ajatusviivan korvikkeena** (esim.
+  sähköpostissa tai järjestelmissä, joissa ajatusviivaa ei ole), sen
+  molemmin puolin tulee välilyönti: "Asiaa pohdittiin - eikä vähiten - ...".
 
 ---
 
