@@ -388,12 +388,12 @@ Kun tarkistat suomenkielistä juridista tekstiä, käy läpi järjestyksessä:
 
 ## 11. Viitteet
 
-- Kielitoimiston ohjepankki: https://kielitoimistonohjepankki.fi/ (viitattu 19.6.2026)
+- Kielitoimiston ohjepankki: https://kielitoimistonohjepankki.fi/
 - Kielitoimiston ohjepankki, Ajatusviiva: https://kielitoimistonohjepankki.fi/ohje/ajatusviiva/ (viitattu 19.6.2026)
 - Kielitoimiston ohjepankki, Yhdysmerkki eli yhdysviiva: https://kielitoimistonohjepankki.fi/ohje/yhdysmerkki-eli-yhdysviiva/ (viitattu 19.6.2026)
 - Kielikello, Ajatusviiva ja yhdysmerkki: https://kielikello.fi/ajatusviiva-ja-yhdysmerkki/ (viitattu 19.6.2026)
-- Kielitoimiston sanakirja: https://www.kielitoimistonsanakirja.fi/ (viitattu 19.6.2026)
-- Iso suomen kielioppi: https://kaino.kotus.fi/visk/etusivu.php (viitattu 19.6.2026)
-- Kielikello-lehti: https://kielikello.fi/ (viitattu 19.6.2026)
+- Kielitoimiston sanakirja: https://www.kielitoimistonsanakirja.fi/
+- Iso suomen kielioppi: https://kaino.kotus.fi/visk/etusivu.php
+- Kielikello-lehti: https://kielikello.fi/
 
 Epäselvissä tapauksissa tarkista Kielitoimiston sanakirjasta sanan oikea kirjoitusasu ja taivutus.
