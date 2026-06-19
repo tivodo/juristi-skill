@@ -1,10 +1,10 @@
 ---
 name: juristi
 description: >
-  Suomalaisen oikeuden ja lakikielen yleisapuri. Käytä tätä skilliä AINA kun käyttäjä työskentelee lakien, pykälien, säädösten, sopimusten tai muiden juridisten dokumenttien kanssa — riippumatta siitä, onko käyttäjä juristi vai ei. Triggeröi kun käyttäjä mainitsee pykälän, momentin, lain, asetuksen, säädöksen, sopimuksen, juridisen tekstin, lakiviittauksen, lakikielen, oikeudellisen asiakirjan tai haluaa ymmärtää, tulkita, analysoida tai kirjoittaa juridista sisältöä suomeksi. Triggeröi myös kun käyttäjä antaa tai pyytää lukemaan lakitekstiä, viittaa säädösnumeroihin (esim. "365/1995"), käyttää pykälämerkkiä (§), mainitsee hallituksen esityksen, tai pyytää tarkistamaan juridisen tekstin kielen tai rakenteen. Käytä tätä skilliä myös kun käyttäjä laatii ehtoja, velvoitteita, vastuulausekkeita tai muita juridisluonteisia tekstejä, vaikka hän ei käyttäisi sanaa "juridinen".
+  Suomalaisen oikeuden ja lakikielen yleisapuri. Käytä tätä skilliä AINA kun käyttäjä työskentelee lakien, pykälien, säädösten, sopimusten tai muiden juridisten dokumenttien kanssa – riippumatta siitä, onko käyttäjä juristi vai ei. Triggeröi kun käyttäjä mainitsee pykälän, momentin, lain, asetuksen, säädöksen, sopimuksen, juridisen tekstin, lakiviittauksen, lakikielen, oikeudellisen asiakirjan tai haluaa ymmärtää, tulkita, analysoida tai kirjoittaa juridista sisältöä suomeksi. Triggeröi myös kun käyttäjä antaa tai pyytää lukemaan lakitekstiä, viittaa säädösnumeroihin (esim. "365/1995"), käyttää pykälämerkkiä (§), mainitsee hallituksen esityksen, tai pyytää tarkistamaan juridisen tekstin kielen tai rakenteen. Käytä tätä skilliä myös kun käyttäjä laatii ehtoja, velvoitteita, vastuulausekkeita tai muita juridisluonteisia tekstejä, vaikka hän ei käyttäisi sanaa "juridinen".
 ---
 
-# Juristi — Suomalaisen lakikielen ja lainsäädännön apuri
+# Juristi – Suomalaisen lakikielen ja lainsäädännön apuri
 
 Tämä skill auttaa työskentelemään suomalaisen lainsäädännön ja juridisten dokumenttien kanssa. Se kattaa lainsäädännön rakenteen, pykäläviittausten oikean muodon, lakikielen kirjoitussäännöt, suomen kielen erityisvaatimukset juridisessa kontekstissa, sopimusten laatimisen sekä oikeuslähteiden käytön.
 
@@ -23,9 +23,9 @@ Tämän skillin yksityiskohtaiset ohjeet on jaettu referenssitiedostoihin. **Lue
 | Lakikieli ja suomen kieli | `references/lakikieli.md` | Käyttäjä kirjoittaa tai tarkistaa juridista tekstiä, kysyy kirjoitussäännöistä, yhdyssanoista, pilkutuksesta tai lakikielen tyylistä |
 | Sopimukset | `references/sopimukset.md` | Käyttäjä laatii, tarkistaa tai analysoi sopimusta tai muuta juridista asiakirjaa |
 | Lähteet ja oikeuskäytäntö | `references/lahteet.md` | Käyttäjä etsii ajantasaista lakia, oikeuskäytäntöä, hallituksen esityksiä tai tarvitsee viittausmuotoja oikeuslähteisiin |
-| Suomen kieli | `references/suomen-kieli.md` | Käyttäjä kirjoittaa suomeksi ja tarvitsee kattavat oikeinkirjoitus-, kielioppi- ja tyyliohjeet — yhdyssanat, pilkutus, alkukirjaimet, lyhenteet, numerot, lauserakenne, oikoluku |
+| Suomen kieli | `references/suomen-kieli.md` | Käyttäjä kirjoittaa suomeksi ja tarvitsee kattavat oikeinkirjoitus-, kielioppi- ja tyyliohjeet – yhdyssanat, pilkutus, alkukirjaimet, lyhenteet, numerot, lauserakenne, oikoluku |
 
-**Ohje:** Lue yksi tai useampi referenssitiedosto tehtävän alussa. Useimmissa tehtävissä riittää 1–2 referenssiä. Lue kaikki vain, jos tehtävä on laaja (esim. kokonaisen säädöstekstin tarkistus). Lue `references/suomen-kieli.md` aina kun tuotat tai tarkistat suomenkielistä tekstiä — se sisältää kattavat oikeinkirjoitusohjeet.
+**Ohje:** Lue yksi tai useampi referenssitiedosto tehtävän alussa. Useimmissa tehtävissä riittää 1–2 referenssiä. Lue kaikki vain, jos tehtävä on laaja (esim. kokonaisen säädöstekstin tarkistus). Lue `references/suomen-kieli.md` aina kun tuotat tai tarkistat suomenkielistä tekstiä – se sisältää kattavat oikeinkirjoitusohjeet.
 
 ---
 
@@ -44,7 +44,7 @@ Tämän skillin yksityiskohtaiset ohjeet on jaettu referenssitiedostoihin. **Lue
 
 - **Yleiskielisyys, tarkkuus, yhdenmukaisuus, selkeys**
 - **3-3-3-sääntö**: max 3 momenttia/pykälä, 3 virkettä/momentti, 3 lausetta/virke
-- Samasta asiasta **aina sama termi** — ei synonyymeja
+- Samasta asiasta **aina sama termi** – ei synonyymeja
 - Virkettä **ei aloiteta numerolla**
 - Numerot 1–10 kirjaimin, 11+ numeroin säädöstekstissä
 - Prosentit ja rahayksiköt kirjaimin säädöstekstissä: "20 prosenttia", "50 euroa"

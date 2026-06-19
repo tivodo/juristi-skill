@@ -1,10 +1,10 @@
 # Suomen kielen oikeinkirjoitus ja kielioppi juridisessa tekstissä
 
-Tämä referenssi sisältää kattavat suomen kielen kirjoitusohjeet, jotka perustuvat Kielitoimiston ohjepankin (kielitoimistonohjepankki.fi) ohjeisiin. Juridisessa tekstissä kielivirheet heikentävät uskottavuutta erityisen paljon — tarkka kieli on osa oikeudellista huolellisuutta.
+Tämä referenssi sisältää kattavat suomen kielen kirjoitusohjeet, jotka perustuvat Kielitoimiston ohjepankin (kielitoimistonohjepankki.fi) ohjeisiin. Juridisessa tekstissä kielivirheet heikentävät uskottavuutta erityisen paljon – tarkka kieli on osa oikeudellista huolellisuutta.
 
 ---
 
-## 1. Yhdyssanat — yleisin virhetyyppi
+## 1. Yhdyssanat – yleisin virhetyyppi
 
 Yhdyssanavirheet ovat suomen kielen yleisin kirjoitusvirhe, erityisesti tekoälyn tuottamassa tekstissä.
 
@@ -55,7 +55,7 @@ Sanaparin jälkiosana olevan partisiipin (-va, -nut, -tu) tai infinitiivin (-ess
 - lukuun ottamatta (EI: lukuunottamatta)
 - erikseen sovittava (EI: erikseensovittava)
 
-**Poikkeus** — kun merkitys on erikoistunut tai kuvallinen, kirjoitetaan yhteen:
+**Poikkeus** – kun merkitys on erikoistunut tai kuvallinen, kirjoitetaan yhteen:
 - asiantunteva (= osaava)
 - silmäänpistävä (= huomiota herättävä)
 
@@ -313,15 +313,15 @@ Tekoäly tuottaa usein liian ylevää kieltä suomeksi. Vältä:
 - Turhia johdantokappaleita, jotka eivät kerro mitään uutta
 - Saman asian toistamista eri sanoin (täyteteksti)
 
-**Juridisessa tekstissä** tyylin tulee olla asiallinen, tiivis ja neutraali — ei mahtipontinen eikä myöskään liian arkinen.
+**Juridisessa tekstissä** tyylin tulee olla asiallinen, tiivis ja neutraali – ei mahtipontinen eikä myöskään liian arkinen.
 
 ### 9.3 Tyypillisimmät tekoälyvirheet juridisessa suomessa
 
 - **Yhdyssanavirheet**: "hallinto päätös" → hallintopäätös; "läsnäoleva" → läsnä oleva
 - **Väärät sijamuodot** postpositioiden kanssa
 - **Genetiivin ja partitiivin sekoittaminen**
-- **Liian pitkät virkkeet** — juridiikkaa kirjoitettaessa on houkutus kasata liikaa yhteen virkkeeseen
-- **Liiallinen passiivi** — aktiivimuoto on usein selkeämpi
+- **Liian pitkät virkkeet** – juridiikkaa kirjoitettaessa on houkutus kasata liikaa yhteen virkkeeseen
+- **Liiallinen passiivi** – aktiivimuoto on usein selkeämpi
 - **Latteita kielikuvia ja kliseitä** juridiseen tekstiin
 
 ---
@@ -337,7 +337,7 @@ Kun tarkistat suomenkielistä juridista tekstiä, käy läpi järjestyksessä:
 - Tarkista yhdysmerkin ja ajatusviivan ero
 
 ### Vaihe 2: Pilkutustarkistus
-- Tarkista kaikki sivulauseet (että, jos, kun, koska, joka, mikä) — pilkku edelle
+- Tarkista kaikki sivulauseet (että, jos, kun, koska, joka, mikä) – pilkku edelle
 - Tarkista päälauseiden välinen pilkutus
 - Tarkista ettei Oxford-pilkkua ole käytetty
 - Tarkista desimaalipilkut

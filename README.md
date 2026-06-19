@@ -106,9 +106,9 @@ Voit myös kutsua skillin manuaalisesti:
 
 Skill perustuu seuraaviin virallisiin lähteisiin:
 
-- [Finlex](https://finlex.fi/) — Suomen valtion virallinen säädöstietopankki
-- [Kielitoimiston ohjepankki](https://kielitoimistonohjepankki.fi/) — suomen kielen kirjoitusohjeet
-- [Lainkirjoittajan opas](http://lainkirjoittaja.finlex.fi/) — oikeusministeriön ohjeistus säädösten laatimiseen
+- [Finlex](https://finlex.fi/) – Suomen valtion virallinen säädöstietopankki
+- [Kielitoimiston ohjepankki](https://kielitoimistonohjepankki.fi/) – suomen kielen kirjoitusohjeet
+- [Lainkirjoittajan opas](http://lainkirjoittaja.finlex.fi/) – oikeusministeriön ohjeistus säädösten laatimiseen
 - Hallituksen esitysten laatimisohjeet (HELO)
 
 ## Lisenssi

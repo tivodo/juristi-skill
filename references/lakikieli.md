@@ -4,10 +4,10 @@
 
 Lakikielen neljä kulmakiveä:
 
-1. **Yleiskielisyys** — laki kirjoitetaan kielellä, jota kansalaiset ymmärtävät
-2. **Tarkkuus** — jokainen sana valitaan harkiten, määritelmät ovat yksiselitteisiä
-3. **Yhdenmukaisuus** — samasta asiasta käytetään aina samaa termiä, ei synonyymeja
-4. **Selkeys** — lauserakenteet ovat loogisia ja helposti seurattavia
+1. **Yleiskielisyys** – laki kirjoitetaan kielellä, jota kansalaiset ymmärtävät
+2. **Tarkkuus** – jokainen sana valitaan harkiten, määritelmät ovat yksiselitteisiä
+3. **Yhdenmukaisuus** – samasta asiasta käytetään aina samaa termiä, ei synonyymeja
+4. **Selkeys** – lauserakenteet ovat loogisia ja helposti seurattavia
 
 ## 3-3-3-sääntö
 
@@ -66,11 +66,11 @@ Johdantokappaleen ja kunkin kohdan tulee muodostaa kieliopillisesti eheä kokona
 
 Näitä käytetään johdonmukaisesti:
 
-- "Tässä laissa tarkoitetaan..." — määritelmien johdanto
-- "Tämä laki koskee..." — soveltamisalan määrittely
-- "Jollei muualla laissa toisin säädetä..." — poikkeusvaraus
-- "Sen mukaan kuin ... säädetään" — viittaus toiseen säädökseen
-- "...on velvollinen" / "...tulee" — velvoitteen asettaminen
+- "Tässä laissa tarkoitetaan..." – määritelmien johdanto
+- "Tämä laki koskee..." – soveltamisalan määrittely
+- "Jollei muualla laissa toisin säädetä..." – poikkeusvaraus
+- "Sen mukaan kuin ... säädetään" – viittaus toiseen säädökseen
+- "...on velvollinen" / "...tulee" – velvoitteen asettaminen
 
 ## Passiivi ja aktiivi
 
@@ -84,7 +84,7 @@ Aktiivia käytetään, kun tekijä ja vastuu halutaan yksilöidä:
 
 ## Suomen kielen erityishuomiot juridisessa tekstissä
 
-### Yhdyssanat — yleisin virhe
+### Yhdyssanat – yleisin virhe
 
 Perusmuotoinen substantiivi + substantiivi on **aina** yhdyssana:
 - oikeusturva (ei: oikeus turva)
@@ -117,4 +117,4 @@ Partisiippi-ilmaukset sen sijaan kirjoitetaan **erikseen**:
 - Vältä mahtipontisuutta ja turhaa juhlallisuutta
 - Suosi selkeitä ja lyhyitä virkkeitä
 - Vältä turhaa toistoa ja täytetekstiä
-- Pidä sanajärjestys luonnollisena — suomen sanajärjestys on vapaampi kuin englannin
+- Pidä sanajärjestys luonnollisena – suomen sanajärjestys on vapaampi kuin englannin

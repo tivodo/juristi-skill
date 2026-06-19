@@ -1,4 +1,4 @@
-# Pykäläviittaukset — oikeat muodot
+# Pykäläviittaukset – oikeat muodot
 
 Pykäläviittausten oikea muoto on yksi yleisimmistä kompastuskivistä. Näitä sääntöjä noudatetaan aina.
 
@@ -34,21 +34,21 @@ Sana "pykälä" pysyy **yksikössä** myös viitattaessa useaan pykälään:
 
 ## Pykäläväli (ajatusviivalla)
 
-"2–4 §" voi tarkoittaa joko "2, 3 ja 4 §" tai "2, 3 tai 4 §" — asiayhteys ratkaisee. Jos on epäselvää, kirjoita luettelo auki.
+"2–4 §" voi tarkoittaa joko "2, 3 ja 4 §" tai "2, 3 tai 4 §" – asiayhteys ratkaisee. Jos on epäselvää, kirjoita luettelo auki.
 
 ## A-pykälät
 
 Kun säädökseen lisätään pykäliä olemassa olevien väliin, käytetään kirjainlisäystä:
 
 - 4 a §, 4 b §, 4 c § (luetaan: "neljä a pykälä")
-- Luettelona: "4 a—4 d §" (ajatusviivalla, ei pilkkuluettelona)
+- Luettelona: "4 a–4 d §" (ajatusviivalla, ei pilkkuluettelona)
 - A-pykäliä sisältävää väliä ei voi korvata pelkällä ajatusviivalla: "2–5 §" ei kata 4 a §:ää, ellei sitä nimenomaisesti mainita
 
 ## Säädösnumero
 
 Suomalainen säädösnumero muodostuu juoksevasta numerosta ja antamisvuodesta:
 
-- Muoto: **numero/vuosi** — esim. 410/2015, 731/1999
+- Muoto: **numero/vuosi** – esim. 410/2015, 731/1999
 - Säädösnumeroa käytetään säädöksen yksilöimiseen viittauksissa
 - Finlex (finlex.fi) on virallinen sähköinen säädöstietopankki, josta ajantasaiset säädökset löytyvät
 
@@ -75,8 +75,8 @@ Direktiivissä (EU) 2022/2555 edellytetään...
 
 ## Vakiintuneita viittausilmaisuja
 
-- **"...säädetään"** — kun kerrotaan, mitä säädöksessä normitetaan
-- **"...mukaisesti"** — toiminnan perusteena
-- **"...nojalla"** — oikeusperusteena
-- **"...perusteella"** — syynä tai perusteena
-- **"...tarkoitetaan"** — määritelmän yhteydessä
+- **"...säädetään"** – kun kerrotaan, mitä säädöksessä normitetaan
+- **"...mukaisesti"** – toiminnan perusteena
+- **"...nojalla"** – oikeusperusteena
+- **"...perusteella"** – syynä tai perusteena
+- **"...tarkoitetaan"** – määritelmän yhteydessä

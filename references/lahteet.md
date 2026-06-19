@@ -6,26 +6,26 @@ Juridisen työn laatu riippuu siitä, että sovelletaan **voimassa olevaa** laki
 
 **Lainsäädäntö:**
 
-- **Finlex** (finlex.fi) — Suomen valtion virallinen ja maksuton säädöstietopankki. Sisältää ajantasaisen lainsäädännön, alkuperäiset säädökset, valtiosopimukset ja viranomaismääräykset. Tätä käytetään ensisijaisena lähteenä.
-- **EUR-Lex** (eur-lex.europa.eu) — EU-lainsäädännön virallinen tietopankki. Sisältää asetukset, direktiivit ja EU-tuomioistuimen ratkaisut.
+- **Finlex** (finlex.fi) – Suomen valtion virallinen ja maksuton säädöstietopankki. Sisältää ajantasaisen lainsäädännön, alkuperäiset säädökset, valtiosopimukset ja viranomaismääräykset. Tätä käytetään ensisijaisena lähteenä.
+- **EUR-Lex** (eur-lex.europa.eu) – EU-lainsäädännön virallinen tietopankki. Sisältää asetukset, direktiivit ja EU-tuomioistuimen ratkaisut.
 
 **Oikeuskäytäntö:**
 
-- **Finlex — oikeuskäytäntö** — KKO:n ja KHO:n ennakkopäätökset (prejudikaatit) sekä valikoituja hovioikeuksien ja hallinto-oikeuksien ratkaisuja
-- **KKO** (korkein oikeus) — yleisissä tuomioistuimissa käsiteltävien asioiden ylin oikeusaste (rikos-, riita- ja hakemusasiat)
-- **KHO** (korkein hallinto-oikeus) — hallinto-oikeudellisten asioiden ylin oikeusaste (verotus, ympäristö, kaavoitus, sosiaali- ja terveys jne.)
+- **Finlex – oikeuskäytäntö** – KKO:n ja KHO:n ennakkopäätökset (prejudikaatit) sekä valikoituja hovioikeuksien ja hallinto-oikeuksien ratkaisuja
+- **KKO** (korkein oikeus) – yleisissä tuomioistuimissa käsiteltävien asioiden ylin oikeusaste (rikos-, riita- ja hakemusasiat)
+- **KHO** (korkein hallinto-oikeus) – hallinto-oikeudellisten asioiden ylin oikeusaste (verotus, ympäristö, kaavoitus, sosiaali- ja terveys jne.)
 
 **Lainvalmisteluaineisto:**
 
-- **Hallituksen esitykset (HE)** — löytyvät Finlexistä ja eduskunnan sivuilta. Lain tarkoitusta ja sisältöä tulkitaan usein HE:n perustelujen avulla.
-- **Eduskunnan sivut** (eduskunta.fi) — valiokuntien mietinnöt, lausunnot ja täysistuntopöytäkirjat
-- **Lausuntopalvelu** (lausuntopalvelu.fi) — avoimet lausuntokierrokset ja annetut lausunnot
+- **Hallituksen esitykset (HE)** – löytyvät Finlexistä ja eduskunnan sivuilta. Lain tarkoitusta ja sisältöä tulkitaan usein HE:n perustelujen avulla.
+- **Eduskunnan sivut** (eduskunta.fi) – valiokuntien mietinnöt, lausunnot ja täysistuntopöytäkirjat
+- **Lausuntopalvelu** (lausuntopalvelu.fi) – avoimet lausuntokierrokset ja annetut lausunnot
 
 **Muut tärkeät lähteet:**
 
-- **Oikeusministeriön LATI-järjestelmä** — lainvalmisteluhankkeiden seuranta
-- **Oikeuskirjallisuus** — oikeustieteelliset teokset ja artikkelit (esim. Lakimies-lehti)
-- **Eduskunnan oikeusasiamiehen ratkaisut** (oikeusasiamies.fi) — hallinnon laillisuusvalvonnan ratkaisukäytäntö
+- **Oikeusministeriön LATI-järjestelmä** – lainvalmisteluhankkeiden seuranta
+- **Oikeuskirjallisuus** – oikeustieteelliset teokset ja artikkelit (esim. Lakimies-lehti)
+- **Eduskunnan oikeusasiamiehen ratkaisut** (oikeusasiamies.fi) – hallinnon laillisuusvalvonnan ratkaisukäytäntö
 
 ## Hakustrategiat
 
@@ -34,7 +34,7 @@ Juridisen työn laatu riippuu siitä, että sovelletaan **voimassa olevaa** laki
 1. Hae Finlexistä säädöksen nimellä tai numerolla (esim. "kuntalaki" tai "410/2015")
 2. Käytä **ajantasaista lainsäädäntöä** (ei alkuperäisiä säädöksiä), jotta näet voimassa olevan version muutoksineen
 3. Tarkista Finlexin "muutossäädöstiedot" nähdäksesi, onko lakia muutettu viime aikoina
-4. Huom: Finlexin ajantasainen versio voi olla muutaman viikon jäljessä uusimmista muutoksista — tarkista tarvittaessa alkuperäisistä säädöksistä
+4. Huom: Finlexin ajantasainen versio voi olla muutaman viikon jäljessä uusimmista muutoksista – tarkista tarvittaessa alkuperäisistä säädöksistä
 
 **Oikeuskäytännön hakeminen:**
 
@@ -84,8 +84,8 @@ hallituksen esityksessä (HE 268/2014 vp) todetaan...
 
 Juridisessa työssä on aina varmistettava, että sovelletaan **voimassa olevaa** oikeutta:
 
-- **Laki voi olla kumottu tai muutettu** — tarkista aina Finlexin ajantasainen versio
+- **Laki voi olla kumottu tai muutettu** – tarkista aina Finlexin ajantasainen versio
 - **Siirtymäsäännökset** voivat tarkoittaa, että vanha laki soveltuu yhä tiettyihin tilanteisiin
-- **EU-direktiivien implementointimääräajat** — tarkista, onko direktiivi jo pantu täytäntöön kansallisesti
-- **Oikeuskäytäntö voi muuttua** — uudempi ennakkopäätös voi syrjäyttää vanhemman tulkinnan
-- **Vireillä olevat lakimuutokset** — tarkista eduskunnan sivuilta, onko muutoksia tulossa
+- **EU-direktiivien implementointimääräajat** – tarkista, onko direktiivi jo pantu täytäntöön kansallisesti
+- **Oikeuskäytäntö voi muuttua** – uudempi ennakkopäätös voi syrjäyttää vanhemman tulkinnan
+- **Vireillä olevat lakimuutokset** – tarkista eduskunnan sivuilta, onko muutoksia tulossa
