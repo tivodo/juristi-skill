@@ -37,7 +37,7 @@ Tämän skillin yksityiskohtaiset ohjeet on jaettu referenssitiedostoihin. **Lue
 - Ilman numeroa sana "pykälä": tässä pykälässä (ei: tässä §:ssä)
 - Taivutus kaksoispisteellä: §:n, §:ssä, §:ään, §:stä, §:llä
 - Yksikkö myös useasta pykälästä: 2 ja 4 §:ssä (ei: §:issä)
-- Pykäläväli ajatusviivalla: 2–4 § (ei yhdysviivalla)
+- Pykäläväli ajatusviivalla: 2–4 § (ei yhdysmerkillä)
 - Ensimmäisellä kerralla säädöksen nimi ja numero: kuntalain (410/2015) 7 §:ssä
 
 ### Lakikielen keskeiset periaatteet
@@ -76,7 +76,7 @@ Kun kirjoitat tai tarkistat juridista tekstiä, käy läpi:
 - Ovatko taivutusmuodot oikein (§:n, §:ssä, §:ään)?
 - Onko säädösnumero (esim. 410/2015) mukana ensimmäisellä viittauskerralla?
 - Ovatko momenttiviittaukset tarkkoja (pykälä + momentti)?
-- Onko käytetty ajatusviivaa (–) eikä yhdysviivaa (-) pykäläväleissä?
+- Onko käytetty ajatusviivaa (–) eikä yhdysmerkkiä (-) pykäläväleissä?
 - Onko a-pykälät huomioitu pykäläväleissä?
 
 ### Lakikieli
