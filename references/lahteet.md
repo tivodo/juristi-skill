@@ -6,8 +6,8 @@ Juridisen työn laatu riippuu siitä, että sovelletaan **voimassa olevaa** laki
 
 **Lainsäädäntö:**
 
-- **Finlex** (finlex.fi) – Suomen valtion virallinen ja maksuton säädöstietopankki. Sisältää ajantasaisen lainsäädännön, alkuperäiset säädökset, valtiosopimukset ja viranomaismääräykset. Tätä käytetään ensisijaisena lähteenä.
-- **EUR-Lex** (eur-lex.europa.eu) – EU-lainsäädännön virallinen tietopankki. Sisältää asetukset, direktiivit ja EU-tuomioistuimen ratkaisut.
+- **Finlex** (finlex.fi, viitattu 19.6.2026) – Suomen valtion virallinen ja maksuton säädöstietopankki. Sisältää ajantasaisen lainsäädännön, alkuperäiset säädökset, valtiosopimukset ja viranomaismääräykset. Tätä käytetään ensisijaisena lähteenä.
+- **EUR-Lex** (eur-lex.europa.eu, viitattu 19.6.2026) – EU-lainsäädännön virallinen tietopankki. Sisältää asetukset, direktiivit ja EU-tuomioistuimen ratkaisut.
 
 **Oikeuskäytäntö:**
 
@@ -18,14 +18,14 @@ Juridisen työn laatu riippuu siitä, että sovelletaan **voimassa olevaa** laki
 **Lainvalmisteluaineisto:**
 
 - **Hallituksen esitykset (HE)** – löytyvät Finlexistä ja eduskunnan sivuilta. Lain tarkoitusta ja sisältöä tulkitaan usein HE:n perustelujen avulla.
-- **Eduskunnan sivut** (eduskunta.fi) – valiokuntien mietinnöt, lausunnot ja täysistuntopöytäkirjat
-- **Lausuntopalvelu** (lausuntopalvelu.fi) – avoimet lausuntokierrokset ja annetut lausunnot
+- **Eduskunnan sivut** (eduskunta.fi, viitattu 19.6.2026) – valiokuntien mietinnöt, lausunnot ja täysistuntopöytäkirjat
+- **Lausuntopalvelu** (lausuntopalvelu.fi, viitattu 19.6.2026) – avoimet lausuntokierrokset ja annetut lausunnot
 
 **Muut tärkeät lähteet:**
 
 - **Oikeusministeriön LATI-järjestelmä** – lainvalmisteluhankkeiden seuranta
 - **Oikeuskirjallisuus** – oikeustieteelliset teokset ja artikkelit (esim. Lakimies-lehti)
-- **Eduskunnan oikeusasiamiehen ratkaisut** (oikeusasiamies.fi) – hallinnon laillisuusvalvonnan ratkaisukäytäntö
+- **Eduskunnan oikeusasiamiehen ratkaisut** (oikeusasiamies.fi, viitattu 19.6.2026) – hallinnon laillisuusvalvonnan ratkaisukäytäntö
 
 ## Hakustrategiat
 
