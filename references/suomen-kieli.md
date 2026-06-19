@@ -240,14 +240,14 @@ Yhdysmerkkiä pidempi vaakaviiva. Käytetään:
 ### 6.3 n-viiva (–) ja m-viiva (—)
 
 Ajatusviivoja on kaksi eripituista:
-- **n-viiva** (–, englannin *en dash*) — lyhyempi ajatusviiva
-- **m-viiva** (—, englannin *em dash*) — pidempi ajatusviiva
+- **n-viiva** (–, englannin *en dash*) – lyhyempi ajatusviiva
+- **m-viiva** (—, englannin *em dash*) – pidempi ajatusviiva
 
 Kielenhuolto **ei erottele** näitä eri käyttötarkoituksiin: kumpaa tahansa
 voi käyttää kaikissa ajatusviivan tehtävissä. Suomalaisessa tekstissä
 vakiintunein on kuitenkin n-viiva (–), ja **tämä skill käyttää
 johdonmukaisesti n-viivaa (–)** kaikissa ajatusviivan tehtävissä. Älä siis
-"korjaa" n-viivaa m-viivaksi — molemmat ovat sallittuja, mutta
+"korjaa" n-viivaa m-viivaksi – molemmat ovat sallittuja, mutta
 yhdenmukaisuuden vuoksi pitäydy n-viivassa.
 
 ### 6.4 Välilyönnit viivojen ympärillä
